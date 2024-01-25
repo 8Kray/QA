@@ -1,0 +1,7 @@
+Processed,Method,URI,Flags
+true,GET,http://localhost:3000/,Seed
+true,GET,http://localhost:3000/robots.txt,Seed
+true,GET,http://localhost:3000/sitemap.xml,Seed
+true,GET,http://localhost:3000/Logo_CSU_Suceava.png,
+true,GET,http://localhost:3000/manifest.json,
+true,GET,http://localhost:3000/static/js/bundle.js,

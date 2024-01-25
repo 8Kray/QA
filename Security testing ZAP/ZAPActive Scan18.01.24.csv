@@ -1,0 +1,90 @@
+ID,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+3599,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/5329824024603309467,404,Not Found,4,393,158
+3601,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/juniori%202/6451302706471736708,200,OK,19,373,702
+3603,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/juniori%202/4163913365871518276,200,OK,5,373,702
+3605,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/sponsors/4227664897581218685,200,OK,4,373,702
+3606,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/sponsors/2625131741986709237,200,OK,3,373,702
+3608,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/static/2966961348858232243,404,Not Found,4,393,165
+3610,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/static/js/1482501963205605658,404,Not Found,4,393,168
+3612,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/static/media/17529828181084308,200,OK,2,373,702
+3613,Tue Jan 23 20:18:29 EET 2024,Tue Jan 23 20:18:29 EET 2024,GET,http://localhost:3000/static/media/225617450790839049,200,OK,3,373,702
+3617,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,GET,http://localhost:3000/WEB-INF/web.xml,404,Not Found,17,393,154
+3619,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,GET,http://localhost:3000/?-s,200,OK,4,373,702
+3618,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,GET,http://localhost:3000/WEB-INF/applicationContext.xml,404,Not Found,25,393,169
+3621,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,GET,http://localhost:3000/WEB-INF/classes/web/xml.class,404,Not Found,3,393,168
+3622,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,GET,http://localhost:3000/WEB-INF/classes/applicationContext/xml.class,404,Not Found,4,393,183
+3624,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,POST,http://localhost:3000/?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,3,393,140
+3632,Tue Jan 23 20:18:30 EET 2024,Tue Jan 23 20:18:30 EET 2024,POST,http://localhost:3000/?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,404,Not Found,5,393,140
+3642,Tue Jan 23 20:18:31 EET 2024,Tue Jan 23 20:18:31 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+3690,Tue Jan 23 20:18:34 EET 2024,Tue Jan 23 20:18:34 EET 2024,GET,http://localhost:3000/?class.module.classLoader.DefaultAssertionStatus=nonsense,200,OK,13,373,702
+3693,Tue Jan 23 20:18:35 EET 2024,Tue Jan 23 20:18:35 EET 2024,POST,http://localhost:3000/,404,Not Found,3,393,140
+3736,Tue Jan 23 20:18:35 EET 2024,Tue Jan 23 20:18:35 EET 2024,GET,http://localhost:3000/latest/meta-data/,200,OK,5,373,702
+3775,Tue Jan 23 20:18:38 EET 2024,Tue Jan 23 20:18:38 EET 2024,GET,http://localhost:3000/,200,OK,1,373,702
+3799,Tue Jan 23 20:18:40 EET 2024,Tue Jan 23 20:18:40 EET 2024,GET,http://localhost:3000/trace.axd,200,OK,4,373,702
+3800,Tue Jan 23 20:18:40 EET 2024,Tue Jan 23 20:18:40 EET 2024,GET,http://localhost:3000/elmah.axd,200,OK,4,373,702
+3802,Tue Jan 23 20:18:40 EET 2024,Tue Jan 23 20:18:40 EET 2024,GET,http://localhost:3000/.htaccess,200,OK,13,373,702
+3808,Tue Jan 23 20:18:40 EET 2024,Tue Jan 23 20:18:40 EET 2024,GET,http://localhost:3000/.env,200,OK,7,373,702
+3814,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/actuator/health,200,OK,4,373,702
+3818,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/actuator/health,200,OK,5,373,702
+3826,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/lfm.php,200,OK,15,373,702
+3831,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/.idea/WebServers.xml,200,OK,7,373,702
+3837,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/config/databases.yml,200,OK,9,373,702
+3842,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/config/database.yml,200,OK,6,373,702
+3845,Tue Jan 23 20:18:41 EET 2024,Tue Jan 23 20:18:41 EET 2024,GET,http://localhost:3000/.git/config,200,OK,4,373,702
+3847,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.svn/entries,200,OK,3,373,702
+3850,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.svn/wc.db,200,OK,2,373,702
+3851,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/CVS/root,200,OK,3,373,702
+3866,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/server-status,200,OK,16,373,702
+3867,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/core,200,OK,3,373,702
+3869,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/sftp-config.json,200,OK,2,373,702
+3870,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/WS_FTP.ini,200,OK,2,373,702
+3873,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/ws_ftp.ini,200,OK,3,373,702
+3881,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/WS_FTP.INI,200,OK,3,373,702
+3883,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/filezilla.xml,200,OK,3,373,702
+3885,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/sitemanager.xml,200,OK,5,373,702
+3887,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/FileZilla.xml,200,OK,3,373,702
+3889,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/winscp.ini,200,OK,2,373,702
+3891,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/WinSCP.ini,200,OK,2,373,702
+3895,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.DS_Store,200,OK,6,373,702
+3898,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.php_cs.cache,200,OK,5,373,702
+3900,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/DEADJOE,200,OK,8,373,702
+3901,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/sites/default/private/files/backup_migrate/scheduled/test.txt,200,OK,15,373,702
+3903,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/app/etc/local.xml,200,OK,2,373,702
+3905,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/server.key,200,OK,3,373,702
+3907,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/privatekey.key,200,OK,4,373,702
+3909,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/myserver.key,200,OK,2,373,702
+3913,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/key.pem,200,OK,2,373,702
+3915,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/id_rsa,200,OK,2,373,702
+3919,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/id_dsa,200,OK,2,373,702
+3924,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.ssh/id_rsa,200,OK,3,373,702
+3927,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/.ssh/id_dsa,200,OK,3,373,702
+3928,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/adminer.php,200,OK,3,373,702
+3929,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/vb_test.php,200,OK,4,373,702
+3930,Tue Jan 23 20:18:42 EET 2024,Tue Jan 23 20:18:42 EET 2024,GET,http://localhost:3000/CHANGELOG.txt,200,OK,9,373,702
+3933,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/sites/default/files/.ht.sqlite,200,OK,4,373,702
+3937,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/composer.json,200,OK,3,373,702
+3940,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/composer.lock,200,OK,8,373,702
+3942,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/vim_settings.xml,200,OK,2,373,702
+3946,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/server-info,200,OK,3,373,702
+3951,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/phpinfo.php,200,OK,2,373,702
+3956,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/info.php,200,OK,4,373,702
+3958,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/i.php,200,OK,3,373,702
+3960,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/test.php,200,OK,3,373,702
+3977,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/_wpeprivate/config.json,200,OK,3,373,702
+3978,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/_framework/blazor.boot.json,200,OK,5,373,702
+3981,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/.hg,200,OK,3,373,702
+3985,Tue Jan 23 20:18:43 EET 2024,Tue Jan 23 20:18:43 EET 2024,GET,http://localhost:3000/.bzr,200,OK,3,373,702
+4011,Tue Jan 23 20:18:44 EET 2024,Tue Jan 23 20:18:44 EET 2024,GET,http://localhost:3000/._darcs,200,OK,5,373,702
+4018,Tue Jan 23 20:18:44 EET 2024,Tue Jan 23 20:18:44 EET 2024,GET,http://localhost:3000/BitKeeper,200,OK,4,373,702
+4021,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,8,373,702
+4022,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,1,373,702
+4023,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+4024,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,3,373,702
+4025,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+4026,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,3,373,702
+4028,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+4031,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+4033,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,1,373,702
+4034,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,1,373,702
+4035,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
+4036,Tue Jan 23 20:18:45 EET 2024,Tue Jan 23 20:18:45 EET 2024,GET,http://localhost:3000/,200,OK,2,373,702
